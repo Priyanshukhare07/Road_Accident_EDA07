@@ -196,11 +196,7 @@ Road-Accident-Analysis
 ├── notebook
 │   └── Road_Accident_EDA.ipynb
 │
-├── presentation
-│   └── Road_Accident_EDA_Presentation.pptx
-│
 ├── images
-│   ├── banner.png
 │   ├── severity_distribution.png
 │   ├── state_analysis.png
 │   ├── weather_analysis.png
@@ -208,6 +204,5 @@ Road-Accident-Analysis
 │   ├── road_type_analysis.png
 │   └── correlation_heatmap.png
 │
-├── requirements.txt
+│
 ├── README.md
-└── LICENSE
