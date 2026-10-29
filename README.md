@@ -4,7 +4,7 @@
 <h1 align="center">🚦 Indian Road Accident Analysis using Python</h1>
 
 Road Accident Data Analysis using Python, Pandas, NumPy, Matplotlib, and Seaborn to identify accident patterns, severity, causes, and trends.
----
+
 
 # 📌 Project Overview
 
