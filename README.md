@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="images/banner.png" alt="Indian Road Accident Analysis Banner" width="100%">
 </p>
 
 <h1 align="center">🚦 Indian Road Accident Analysis using Python</h1>
