@@ -245,17 +245,6 @@ Run all cells.
 
 ---
 
-# 👨‍💻 Author
-
-**Harshvardhan Patil**
-
-AI & Data Science Engineering Student
-
-JSPM Narhe Technical Campus
-
-GitHub: https://github.com/harsh-0120
-
-LinkedIn: *(Add your LinkedIn profile URL here)*
 
 ---
 
