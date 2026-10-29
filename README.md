@@ -3,16 +3,7 @@
 
 <h1 align="center">🚦 Indian Road Accident Analysis using Python</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green">
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue">
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange">
-  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal">
-  <img src="https://img.shields.io/badge/Plotly-Interactive%20Visualization-purple">
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-red">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
-</p>
+
 
 ---
 
