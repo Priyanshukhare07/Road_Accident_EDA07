@@ -47,8 +47,6 @@ To support more comprehensive exploratory analysis, the original dataset was exp
 - NumPy
 - Matplotlib
 - Seaborn
-- Plotly
-- SciPy
 - Jupyter Notebook
 
 ---
